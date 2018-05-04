@@ -1,6 +1,9 @@
 Changes since 0.7.0
 ==========================================================================
 
+Fri May 4 02:00:00 2018 -0500
+    parse _Float128 as a builtin type only when gcc > 7 (#43)
+
 Sat Nov 25 00:46:33 2017 -0600
     add support for _Float128 (#41)
 
